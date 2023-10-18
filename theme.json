@@ -30,7 +30,7 @@
 		"color": {
 			"palette": [
 				{
-					"color": "#ffffff",
+					"color": "#F8F5F0",
 					"name": "Base",
 					"slug": "base"
 				},
@@ -756,6 +756,7 @@
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--cormorant-garamond)",
 					"fontWeight": "400",
+					"textTransform": "uppercase",
 					"lineHeight": "1.4"
 				}
 			},
